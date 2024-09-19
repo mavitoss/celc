@@ -4,3 +4,8 @@ h1 {text-align: center;}
 h2 {text-align: center;}
 body {color: rgba(221, 222, 223, 0.719);
 background-color: rgb(133, 133, 133);}
+header {
+    border-bottom: solid 3px rgba(166, 151, 172, 0.384);
+    padding: 25px;
+    font-size: 32px;
+}
