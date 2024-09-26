@@ -8,4 +8,6 @@ header {
     border-bottom: solid 3px rgba(166, 151, 172, 0.384);
     padding: 25px;
     font-size: 32px;
+    display: flex;
+    justify-content: center;
 }
